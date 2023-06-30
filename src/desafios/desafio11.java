@@ -7,11 +7,11 @@ public class desafio11 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("                RENDA                            IMPOSTO DE RENDA");
-		System.out.println("   R$ 0,00 - R$ 2.000,00                          ISENTO");
-		System.out.println("   R$ 2000,01 - R$ 3.000,00                         8%");
-		System.out.println("   R$ 3000,01 - R$ 4.500,00                        18%");
-		System.out.println("   R$ 4500,01 ~                                             28%");
+		System.out.println("Renda / Imposto");
+		System.out.println("R$ 0,00 - R$ 2.000,00 / ISENTO");
+		System.out.println("R$ 2000,01 - R$ 3.000,00 / 8%");
+		System.out.println("R$ 3000,01 - R$ 4.500,00 / 18%");
+		System.out.println("R$ 4500,01 ~ / 28%");
 		
 		System.out.println();
 		
